@@ -1,7 +1,7 @@
 docker stop codebox
 docker rm   codebox
 
-SRC=$HOME/data/
+SRC=$HOME/data/docker
 SRC_HTML=$SRC/lamp/html
 #SRC=/home/saulo/data/lamp/html
 
